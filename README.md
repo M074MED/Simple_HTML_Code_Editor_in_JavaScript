@@ -21,6 +21,7 @@ View The Project: https://m074med.github.io/Simple_HTML_Code_Editor_in_JavaScrip
 ######  -jQuery
 ######  -Bootstrap
 ######  -React JS
+######  -C++
 ######  -Git & GitHub
 ######  -Command Line
 ######  -Linux
