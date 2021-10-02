@@ -13,6 +13,7 @@ View The Project: https://m074med.github.io/Simple_HTML_Code_Editor_in_JavaScrip
 #### My Technical Skills:
 ######  -Python
 ######  -Django
+######  -MySQL
 ######  -oop
 ######  -Web Scraping (with Python Beautiful Soup)
 ######  -HTML
